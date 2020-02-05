@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>etlivehelperchat</name>
+	<displayName><![CDATA[Live Helper Chat]]></displayName>
+	<version><![CDATA[1.2.3]]></version>
+	<description><![CDATA[Flexible and standalone live support chat for your shop]]></description>
+	<author><![CDATA[Express Tech]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[This will delete all chat history and settings?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
